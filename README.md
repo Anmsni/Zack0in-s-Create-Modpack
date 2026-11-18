@@ -17,6 +17,7 @@ This pack features:
 - Strut Your Stuff (Struts)
 
 ## Installation
+- Download the file ** Zack0in's Create Mod 1.0.0.mrpack **
 - You must have NeoForge installed to play
 - You can download from modrinth
 - You must be playing on 1.21.1
